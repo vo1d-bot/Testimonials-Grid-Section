@@ -26,8 +26,8 @@ A clean and modern testimonials layout built using a grid system. The project fe
 
 ## Links
 
-* [Live URL](https://)
-* Repository: [Github](https://)
+* [Live URL](https://testimonials-grid-section-eight-livid.vercel.app/)
+* Repository: [Github](https://github.com/vo1d-bot/Testimonials-Grid-Section.git)
 
 ## Built With
 

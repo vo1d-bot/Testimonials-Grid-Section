@@ -37,7 +37,7 @@ body {
     display: grid;
     gap: 2rem;
 
-    grid-template-columns: minmax(0, 320px); 
+    grid-template-columns: minmax(0, 24.615rem); 
     justify-content: center;
 }
 
@@ -107,8 +107,8 @@ body {
 }
 
 .user__photo {
-    height: 32px;
-    border-radius: 16px;
+    height: 2.5rem;
+    border-radius: 1.125rem;
 }
 
 .user__name {
@@ -136,7 +136,7 @@ body {
     display: none;
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 78.769rem) {
     .testimonial__grid {
         gap: 2rem;
 
@@ -146,7 +146,7 @@ body {
         "area-3 area-4 area-4 area-5";
 
         margin: 2rem;
-        max-width: 1200px;
+        max-width: 92.307rem;
         
     }
 
